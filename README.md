@@ -1,4 +1,4 @@
-gs-whmcs
-========
+Galactic Servers - WHMCS
+========================
 
-The Billing System for Galactic Servers.
+Do not distribute.
